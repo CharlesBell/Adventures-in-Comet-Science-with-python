@@ -1,0 +1,117 @@
+IIIYYYYMnL YYYY MM DD.DD eM/mm.m:r AAA.ATF/xxxx /dd.ddnDC /t.ttmANG ICQ XX*OBSxxf InT APERTURcamchip SFW C ## u.uu xx.x PIXELSIZE
+   2019Y4  2020 03 16.92  S  8.3 TI 19.5L 4  46  11    4            ICQ XX HAR11                                                  Christian Harder, Jeersdorf, Germany f; SQM-L: 21.1 mag/arcsec^2, Swanfilter wirkte: Durchmesser 13`
+   2019Y4  2020 03 16.88  S  8.5 TK  2.6B     8  12    4            ICQ XX KAR02                                                  Timo Karhula, Virsbo, Sweden; SQM-L: 21.3 mag/arcsec^2, Altitude 84 deg.  Confirmed with 10x50 B.
+   2019Y4  2020 03 16.80  S  8.5 TK 19.0L 5  38   8    3            ICQ XX KWI                                                    Maciej Kwinta, Krakow
+   2019Y4  2020 03 16.77  M  8.4 TT  5.0B    10  12    3            ICQ XX GUZ                                                    Piotr Guzik
+   2019Y4  2020 03 16.09  S  8.4 TI 10.0B    25  10    1            ICQ XX RES                                                    Maciej Reszelski, Szamotully
+   2019Y4  2020 03 16.05  Z  8.7 U4  9.0R 5A286  11.66              ICQ XX JAMaaI     C11.66mCDS CFC CMP 5  7*           2.1s 2.1 Nick James, 970; Megrez 90, ASI2 Comphot version 1.2.8
+   2019Y4  2020 03 16.01  Z  8.3 GG160.0H 3a534  17.3               ICQ XX BUCaa  a534C1038 sSDS CFC CMP 0 U *           3.2s 3.2 Denis Buczynski, Tarbatness I81; visual equivalent magnitude measured using Comphot Nick James software
+   2019Y4  2020 03 15.83  S  9.7  S 20.0L 6  40   3   d2            ICQ XX NOWaa                                                  Piotr Nowak
+   2019Y4  2020 03 15.80  S  8.4 TK 12.0R 5  30   9.5  3            ICQ XX MEY                                                    Maik Meyer
+   2019Y4  2020 03 15.80  M  8.5 TT  5.0B    10  14    3            ICQ XX GUZ                                                    Piotr Guzik
+   2019Y4  2020 03 15.80  S  8.7 U4 10.0B    20  12    3            ICQ XX SZA                                                    Sandor Szabo, Agfalva
+   2019Y4  2020 03 15.78  S  8.6 TK 19.0L 5  38   8    3            ICQ XX KWI                                                    Maciej Kwinta, Krakow
+   2019Y4  2020 03 15.14  C 10.7 GG 50.0L 3a120   7                 ICQ XX HILaaI     C 0.19mFL9 K32 AFo 5 P5  0.0       1.0s 1.0 Kevin Hills
+   2019Y4  2020 03 15.14  Z 10.6 U4 43.0C 5a360          &  2.5m157  THAxx THAab      C50   mFL6     CMP 5 U6           3072.0d2048.0 Teerasak Thaluang, Remote to Mayhill, Nex Mexico (H06)
+   2019Y4  2020 03 15.12  S  8.4 TK 12.5B    30   9    4            ICQ xx HER02                                                  Carl Hergenrother
+   2019Y4  2020 03 14.94  M  8.6 TT  5.0B    10  12    3            ICQ XX GUZ                                                    Piotr Guzik
+   2019Y4  2020 03 14.92  Z  8.2 GG160.0H 3a534  14.9               ICQ XX BUCaa  a534C992  sSDS CFC CMP 0 U *           3.2s 3.2 Denis Buczynski, Tarbatness I81; visual quivalent magnitude measured using Comphot Nick James software
+   2019Y4  2020 03 14.90  S  8.6 TK  8.0B    11  12    3            ICQ XX LAB02                                                  Carlos Labordena, La Serra de Engarceran
+   2019Y4  2020 03 14.87  S  8.7 TJ  5.0B    10   7    1            ICQ XX SWI                                                    Mariusz Swietnicki
+   2019Y4  2020 03 14.85  S  9.0 TK 30.5L 5  62   5.5  5            ICQ XX KAR02                                                  Timo Karhula, Virsbo, Sweden
+   2019Y4  2020 03 14.85  S  8.2 TK  5.0B    10  12    3            ICQ XX GON05                                                  Juan Jose Gonzalez Suarez
+   2019Y4  2020 03 14.84  S  8.9 TK 25.0L 5  53   9.6  3            ICQ XX BOH02                                                  Jerzy Bohusz, Myslin Poland
+   2019Y4  2020 03 14.83  S  8.2 TI 19.5L 4  46  14    4            ICQ XX HAR11                                                  Christian Harder, Jeersdorf, Germany f; SQM-L: 21.1 mag/arcsec^2, Swanfilter wirkte
+   2019Y4  2020 03 14.83  S  8.5 TK 19.0L 5  38   9    3            ICQ XX KWI                                                    Maciej Kwinta, Krakow
+   2019Y4  2020 03 14.80  S  8.4 TK 12.0R 5  30  11    3            ICQ XX MEY                                                    Maik Meyer
+   2019Y4  2020 03 14.72  S  8.4 TI 10.0B    25  10    1            ICQ XX RES                                                    Maciej Reszelski, Karolin near Szamotuly
+   2019Y4  2020 03 13.96  S  8.6 TK  5.0B    18  10    3            ICQ XX KAR02                                                  Timo Karhula, Virsbo, Sweden
+   2019Y4  2020 03 13.86  S  8.8 TI 30.0L 4  69  13    4            ICQ XX HAR11                                                  Christian Harder, Jeersdorf, Germany f; SQM-L: 21.1 mag/arcsec^2, Swanfilter wirkte : Durchmesser 16`
+   2019Y4  2020 03 13.85  C  9.6 AQ  6.7R 8a 60  11   D3            ICQ XX NOV01I     C 8   mSF8 K83 A41 5 P4            8.4s 8.4 Artyom Novichonok, Images by S. Korotkiy, V comparisons stars
+   2019Y4  2020 03 13.83  Z  8.9 AQ 10.0R 6B285  26        0.06 154        FRIaaI     C26   mCDS CFC AIT 5               2.0s 2.0 Steffen Fritsche, Koeditz; DSLR green, mlim=19.5
+   2019Y4  2020 03 13.77  M  9.0 TT  5.0B    10  10    2            ICQ XX GUZ                                                    Piotr Guzik
+   2019Y4  2020 03 13.03  Z  9.0 U4  9.0R 5C931  10.34              ICQ XX JAMaaI     C10.34mCDS CFC CMP 5  7*           2.1s 2.1 Nick James, 970; Megrez 90, ASI2 Comphot version 1.2.8
+   2019Y4  2020 03 12.91  S  9.3 TI 30.0L 4  69   7    4            ICQ XX HAR11                                                  Christian Harder, Jeersdorf, Germany h; SQM-L: 20.5 mag/arcsec^2, Mondschein Swanfilter wirkt : Durchm. 9.0`
+   2019Y4  2020 03 12.89  C  9.9 AQ  6.7R 8a 60   8   D3            ICQ XX NOV01I     C 8   mSF8 K83 A41 5 P4            8.4s 8.4 Artyom Novichonok, Images by S. Korotkiy, V comparisons stars
+   2019Y4  2020 03 12.89  Z  8.7 GG160.0H 3a610  15.42              ICQ XX BUCaa  a610C925  sSDS CFC CMP 0 U *           3.2s 3.2 Denis Buczynski, Tarbatness I81; visual quivalent magnitude measured using Comphot Nick James software
+   2019Y4  2020 03 12.85  Z  9.8 U4 35.0T 6a600   6.58              ICQ XX BUCaa  a600C395  sZ16 CMC CMP 0 U *           1.1s 1.1 Denis Buczynski, Tarbatness I81; visual equivalent magnitude measured using Comphot Nick James software
+   2019Y4  2020 03 12.82  S  9.2 TK  5.0B 4   7                            PIL01                                                  Uwe Pilz
+   2019Y4  2020 03 12.81  S  8.9 TK 20.0L 4  42 & 7    2            ICQ XX SCH04                                                  Alex Scholten, Eerbeek
+   2019Y4  2020 03 12.80  S  9.0 TK 12.0R 5  30   7    2            ICQ XX MEY                                                    Maik Meyer
+   2019Y4  2020 03 12.77  M  9.6 TT 10.0B    25   7    3            ICQ XX GUZ                                                    Piotr Guzik
+   2019Y4  2020 03 12.77  M  9.4 TT  5.0B    10  10    2            ICQ XX GUZ                                                    Piotr Guzik
+   2019Y4  2020 03 11.92  Z  9.0 AQ 20.0L 2a720  23        0.12 163        LEHaaI     C23   m        AIT 5               4.7s 4.7 Thomas Lehmann, Weissenkirchen; CCD/G, mlim=18.2, moon 93% dist 78 deg, images by M. Jaeger
+   2019Y4  2020 03 11.86  Z 10.3 U4 43.1Y 7a844   5                 ICQ XX JAMaaI     C 5   mSTL KA1 CMP 5  7*           1.3s 1.3 Nick James, I89; T07, Nerpio, S Comphot version 1.2.8
+   2019Y4  2020 03 11.80 !I 11.0 TK 30.5L 5  94 & 2   d2             NAV02 NAV02                                                  Jose Pablo Navarro Pina, Campos del Rio ( Murcia , Spain )
+   2019Y4  2020 03 11.80  S  8.8 TK 19.0L 5  38   8    3            ICQ XX KWI                                                    Maciej Kwinta, Krakow
+   2019Y4  2020 03 11.77  M  9.8 TT 10.0B    25   8    3            ICQ XX GUZ                                                    Piotr Guzik
+   2019Y4  2020 03 11.76  S 10.4 TK 40.0Y 7  68   3    2/           ICQ XX KAR02                                                  Timo Karhula, Vasteras, Sweden; Solar altitude -13 deg.
+   2019Y4  2020 03 10.93  Z 10.9 U4 35.0T 6A200   4.14              ICQ XX BUCaa  A200C248  sZ16 CMC CMP 0 U *           1.1s 1.1 Denis Buczynski, Tarbatness I81; visual equivalent magnitude measured using Comphot Nick James software
+   2019Y4  2020 03 10.83  Z  9.7 U4 20.0T 2a300   6                 ICQ XX SWAaa      C 6   m        CMP 5 U9*           4.8s 4.8 David Swan, Tynemouth, UK; ASI294MC
+   2019Y4  2020 03 10.81  C 10.2 AQ  6.7R 8a 60   6.7 d3            ICQ XX NOV01I     C 6.7 mSF8 K83 A41 5 P4            8.4s 8.4 Artyom Novichonok, Images by S. Korotkiy, V comparisons stars
+   2019Y4  2020 03 09.92  Z  9.6 AQ 10.0R 6a777  15                        FRIaaI     C15   mCDS CFC AIT 5               2.0s 2.0 Steffen Fritsche, Koeditz; DSLR green, mlim=19.2, moon 100% dist 57 deg
+   2019Y4  2020 03 09.81  C 10.3 GG  6.7R 8a 60   6.5 d3/           ICQ XX NOV01I     C 6.5 mSF8 K83 A41 5 P4            8.4s 8.4 Artyom Novichonok, Images by S. Korotkiy, V comparisons stars
+   2019Y4  2020 03 08.81  C 11.1 GG  6.7R 8a 60   3.8  3/           ICQ XX NOV01I     C 4   mSF8 K83 A41 5 P3            8.4s 8.4 Artyom Novichonok, Images by S. Korotkiy, V comparisons stars, full Moon
+   2019Y4  2020 03 07.98  Z  9.9 AQ  7.5A 4A794  17         2.1m167        LEHaaI     C17   mPDS CAC AIT 5               3.4s 3.4 Thomas Lehmann, Weimar; DSLR green, mlim=17.5, moon 96% dist 46 deg
+   2019Y4  2020 03 07.94  C 11.2 AQ 25.0T 5a480   6.7               ICQ XX WAR01I     C 6.67mSXV ICY KPR 5 U8* 0.2       2.0s 2.0 Johan Warell; Comet Alt.:17.7 Calculated mags:10.9,11.0,11.3,11.3,11.3,11.3
+   2019Y4  2020 03 07.69  C 10.7 GG  6.7R 8a 60   6.8  2            ICQ XX NOV01I     C 6.3 mSF8 K83 A41 5 P4            8.4s 8.4 Artyom Novichonok, Images by S. Korotkiy, V comparisons stars
+   2019Y4  2020 03 06.94  Z 11.5 U4 35.0T 6A200   3.76              ICQ XX BUCaa  A200C225  sZ16 CMC CMP 0 U *           1.1d 1.1 Denis Buczynski, Tarbatness I81; visual equivalent magnitude measured using Comphot Nick James software
+   2019Y4  2020 03 05.46  Z  9.7 AQ 10.6R 5A080  27         1.2m176        LEHaaI     C27   mSTL KA1 AIT 5               3.5s 3.5 Thomas Lehmann, Mayhill (remote); CCD/G, mlim=19.0
+   2019Y4  2020 03 05.43  V  9.8 U4 10.6R 5a600  16.3               ICQ xx HER02      C16.3 mSTL KA1 IRA 5 U3*           3.5s 3.5 Carl Hergenrother
+   2019Y4  2020 03 05.41  Z 10.1 AQ 28.0L 2a300  21         2.2m181        LEHaaI     C21   m        AIT 5               1.6s 1.6 Thomas Lehmann, Mayhill (remote); GBRG/G, mlim=19.1, moon 76% dist 52 deg
+   2019Y4  2020 03 04.80  C 11.3 GG  6.7R 8a 60   5.5  3/           ICQ XX NOV01I     C 6   mSF8 K83 A41 5 P4            8.4s 8.4 Artyom Novichonok, Images by S. Korotkiy, V comparisons stars
+   2019Y4  2020 03 04.17  C 12.0 NO 50.0T 7A600   3.25 5    1.8m188 ICQ XX PAUaaI     C     dFL9 KA9 CMP 0 P9           24.0d24.0 Nirmal Paul, Canary Island  Teide  MPC - G40 
+   2019Y4  2020 03 03.96  C 11.2 GG  6.7R 8a 60   7    3            ICQ XX NOV01I     C 7   mSF8 K83 A41 5 P4            8.4s 8.4 Artyom Novichonok, Images by S. Korotkiy, V comparisons stars
+   2019Y4  2020 03 03.91  Z 10.2 AQ 10.0R 6B285  19         0.5m180        FRIaaI     C19   mCDS CFC AIT 5               2.0s 2.0 Steffen Fritsche, Koeditz; DSLR green, mlim=19.4, moon 61% dist 64 deg
+   2019Y4  2020 03 03.88  Z 12.4 U4 28.0T10A976   2.44              ICQ XX JAMaaI     C 2.44mFL9 K6F CMP 5  7*           1.3s 1.3 Nick James, 970; C11 Comphot version 1.2.8
+   2019Y4  2020 03 02.94  C 11.3 GG  6.7R 8a 60   7    3            ICQ XX NOV01I     C 7   mSF8 K83 A41 5 P4            8.4s 8.4 Artyom Novichonok, Images by S. Korotkiy, V comparisons stars
+   2019Y4  2020 03 02.77  C 12.2 AQ 25.0T 5a300   4                 ICQ XX WAR01I     C 4   mSXV ICY KPR 5 U5* 0.1       2.0s 2.0 Johan Warell; Comet Alt.:36.6 Calculated mags:12.1,12.2,12.5,12.1,12.2,12.1,12.4
+   2019Y4  2020 03 02.03  k 12.8 AQ 30.0L 4D200   2         1.7m187 ICQ XX DEK01I     C 2   mFM1 K32 KPR 5 U9* 0.1       1.2s 1.2 Pieter-Jan Dekelver; Comet Alt.:79.8 Calculated mags:13.2,12.9,13.0,12.8,13.0,13.1,13.2,13.1
+   2019Y4  2020 03 01.96  C 11.5 AQ  6.7Y 8a 60   6.3  3            ICQ XX NOV01I     C 6.3 mSF8 K83 A41 5 P4            8.4s 8.4 Artyom Novichonok, Images by S. Korotkiy, V comparisons stars
+   2019Y4  2020 03 01.82  Z  9.5 AQ 10.0R 6B584  16                        FRIaaI     C16   mCDS CFC AIT 5               2.0s 2.0 Steffen Fritsche, Koeditz; DSLR green, mlim=18.4, moon 40% dist 83 deg
+   2019Y4  2020 03 01.01  S 11.6 TI 53.1L   111   3    4            ICQ XX HAR11                                                  Christian Harder, Jeersdorf, Germany f; SQM-L: 21.4 mag/arcsec^2, Swanfilter wirkte: Durchmesser 4.0`
+   2019Y4  2020 02 28.97  Z 10.6 AQ 28.0L 2A800  18         2.3m187        LEHaaI     C18   m        AIT 5               1.3s 1.3 Thomas Lehmann, Weissenkirchen; CCD/G, mlim=21.5, images by M. Jaeger
+   2019Y4  2020 02 28.85  Z 10.6 AQ 28.0L 2B100  19         1.9m187        LEHaaI     C19   m        AIT 5               2.5s 2.5 Thomas Lehmann, Weissenkirchen; CCD/G, mlim=21.1, moon 23% dist 102 deg, images by M. Jaeger
+   2019Y4  2020 02 28.80  S 12.6 U4 60.0L 4 244   1.2  5            ICQ XX SZA                                                    Sandor Szabo, Agfalva
+   2019Y4  2020 02 28.77  C 12.2 AQ 25.0T 5a300   5.3               ICQ XX WAR01I     C 5.33mSXV ICY KPR 5 U5* 0.1       2.0s 2.0 Johan Warell; Comet Alt.:32.1 Calculated mags:12.2,12.3,12.1,12.1,12.2,12.1,12.2
+   2019Y4  2020 02 27.35  Z 10.7 AQ 10.6R 5a960  18         1.7m192        LEHaaI     C18   mSTL KA1 AIT 5               3.5s 3.5 Thomas Lehmann, Mayhill (remote); CCD/G, mlim=19.1
+   2019Y4  2020 02 27.05  Z 11.9 U4 35.0T 6A200   4.5               ICQ XX BUCaa  A200C270  dZ16 CMC CMP 0 U9*           1.1s 1.1 Denis Buczynski, Tarbatness I81; visual equivalent magnitude measured using Comphot Nick James software
+   2019Y4  2020 02 26.82  Z 13.0 U4 20.0T 2A000   2.3               ICQ XX SWAaa      C 2.3 m        CMP 5 U9*           1.3s 1.3 David Swan, Tynemouth, UK; UCAC4 R mag zeropoint. Sensor ASI178MM; filter UV+IR cut.
+   2019Y4  2020 02 25.15  S 13.4 TI 30.0L 4 155   1.1  3            ICQ XX HAR11                                                  Christian Harder, Jeersdorf, Germany h
+   2019Y4  2020 02 24.90  Z 11.1 AQ 30.0L 4F000  15         2.4m203        LEHaaI     C15   m        AIT 5               2.1s 2.1 Thomas Lehmann, Weissenkirchen; CCD/G, mlim=21.4, images by M. Jaeger
+   2019Y4  2020 02 24.89  S 13.2 U4 60.0L 4 187   1.7  4            ICQ XX SZA                                                    Sandor Szabo, Agfalva
+   2019Y4  2020 02 24.49  Z 10.9 AQ 10.6R 5a900  20         1.7m198        LEHaaI     C20   mSTL KA1 AIT 5               3.5s 3.5 Thomas Lehmann, Mayhill (remote); CCD/G, mlim=19.1
+   2019Y4  2020 02 24.35  Z 11.3 AQ 10.6R 5a720  17                        LEHaaI     C17   mSTL KA1 AIT 5               3.5s 3.5 Thomas Lehmann, Mayhill (remote); CCD/G, mlim=18.7
+   2019Y4  2020 02 23.97  Z 13.5 U4 35.0T 6A200   1.5               ICQ XX BUCaa  A200C90.2 sZ16 CMC CMP 0 U *           1.1s 1.1 Denis Buczynski, Tarbatness I81; visual equivalent magnitude measured using Comphot Nick James software
+   2019Y4  2020 02 23.83  Z 14.0 U4 20.0T 2a980   1.1               ICQ XX SWAaa      C 1.1 m        CMP 5 U9*           1.3s 1.3 David Swan, Tynemouth, UK; ASI178MM, UV+IR cut. UCAC4-R zeropoint.
+   2019Y4  2020 02 21.05  Z 14.1 U4 35.0T 6A200   2                 ICQ XX BUCaa  A200C124  sZ16 CMC CMP 0 U *           1.1s 1.1 Denis Buczynski, Tarbatness I81; visual equivalent magnitude measured using Comphot Nick James software
+   2019Y4  2020 02 20.97  Z 12.1 AQ 30.0L 4a540  10         1.4m214        LEHaaI     C10   m        AIT 5               2.1s 2.1 Thomas Lehmann, Weissenkirchen; CCD/G, mlim=20.6, images by M. Jaeger
+   2019Y4  2020 02 20.82  Z 14.2 U4 20.0T 2A000   1.1               ICQ XX SWAaa      C 1.1 m        CMP 5 U9*           1.3s 1.3 David Swan, Tynemouth, UK; UCAC-4 R to calc zeropoint. ASI178MM Baader UV+IR cut.
+   2019Y4  2020 02 20.01  Z 12.1 AQ 20.0L 4B160  11         0.8m211        LEHaaI     C11   mPDS CAC AIT 5 U             1.2s 1.2 Thomas Lehmann, Weimar; DSLR green, mlim=20.4
+   2019Y4  2020 02 19.98  Z 14.2 U4 35.0T 6a600   1.5               ICQ XX BUCaa  a600C90.2 sZ16 CMC CMP 0 U *           1.1s 1.1 Denis Buczynski, Tarbatness I81; visual equivalent magnitude measured using Comphot Nick James software
+   2019Y4  2020 02 19.95  Z 12.2 AQ 10.0R 6B762   8.9                      FRIaaI     C 8.9 mCDS CFC AIT 5               2.0s 2.0 Steffen Fritsche, Koeditz; DSLR green, mlim=19.6
+   2019Y4  2020 02 19.94  S 11.7 TK 20.3T10  77   3    2            ICQ XX GON05                                                  Juan Jose Gonzalez Suarez
+   2019Y4  2020 02 19.86  C 13.3 AQ 25.0T 5A080   4.7       1.0m216 ICQ XX WAR01I     C 4.67mSXV ICY KPR 5 U9* 0.1       2.0s 2.0 Johan Warell; Comet Alt.:49.5 Calculated mags:13.4,13.2,13.2,13.3,13.2,13.4,13.3,13.2,13.3,13.2
+   2019Y4  2020 02 19.84  S 13.5 TI 53.1L   215   1.4  2/           ICQ XX HAR11                                                  Christian Harder, Jeersdorf, Germany f
+   2019Y4  2020 02 19.70  C 14.3 GG 36.0Y 8a 60   1.2 S3            ICQ XX NOV01I     C 1.3 mFL9 KA9 A41 5 P9*           1.7s 1.7 Artyom Novichonok, ISON-Kitab observatory
+   2019Y4  2020 02 19.12  Z 13.5 U4 35.0T 6a960   3                 ICQ XX BUCaa  a960C180  sZ16 CMC CMP 0 U *           1.1s 1.1 Denis Buczynski, Tarbatness I81; visual equivalent magnitude measured using Comphot Nick James software
+   2019Y4  2020 02 18.93  S 14.4 U4 60.0L 4 305   0.7  3            ICQ XX SZA                                                    Sandor Szabo, Agfalva
+   2019Y4  2020 02 18.88  Z 14.7 U4 20.0T 2A000   0.9               ICQ XX SWAaa      C 0.9 m        CMP 5 U9*           1.3s 1.3 David Swan, Tynemouth, UK; UCAC4-R mags for zeropoint. Baader UV+IR cut. ASI178MM.
+   2019Y4  2020 02 17.28  Z 12.2 AQ 51.0L 4a720   8.6                      LEHaaI     C 8.6 mFLB KB2 AIT 5               1.6s 1.6 Thomas Lehmann, Mayhill (remote); CCD/G, mlim=19.9
+   2019Y4  2020 02 17.27  C 13.8 U4 25.0H 3A200   4.4               ICQ xx HER02      C 4.4 mSTM K32 A4A 5 U3            1.7s 1.7 Carl Hergenrother
+   2019Y4  2020 02 17.07  k 14.9 AQ 25.0T 7A680   1         0.8m220 ICQ XX MAS01I     C 1   mG2x E2V KPR 5 U9* 0.0       1.5s 1.5 Martin Masek; Comet Alt.:63.2 Calculated mags:14.9,14.9,14.9,14.9,14.9,14.9,14.9
+   2019Y4  2020 02 17.07  V 15.0 AQ 25.0T 7A680   1.2               ICQ XX MAS01I     C 1.25mG2x E2V KPR 5 U9* 0.0       1.5s 1.5 Martin Masek; Comet Alt.:63.5 Calculated mags:15.0,15.0,14.9,14.9,15.0,15.0,15.0,14.9
+   2019Y4  2020 02 16.30  C 14.9 U4 43.1Y 5a360   0.4               ICQ XX BUIaa      C22.6 sFL6 K6F CMP 0 U3*              d     Gideon van Buitenen, Mayhill, New Mexico (H06)
+   2019Y4  2020 02 15.93  Z 12.6 U4 35.0T 6a960   1.5               ICQ XX BUCaa  a960C90.2 sZ16 CMC CMP 0 U *           1.1d 1.1 Denis Buczynski, Tarbatness I81; visual equivalent magnitude measured using Comphot Nick James software
+   2019Y4  2020 02 15.91  Z 13.3 AQ 30.0L 4a900   5.6       1.0m220        LEHaaI     C 5.6 m        AIT 5               2.1s 2.1 Thomas Lehmann, Weissenkirchen; CCD/G, mlim=20.5, images by M. Jaeger
+   2019Y4  2020 02 06.05  Z 14.2 AQ 28.0L 2B340   5.6       1.8m252        LEHaaI     C 5.6 m        AIT 5               1.3s 1.3 Thomas Lehmann, Weissenkirchen; CCD/clear, mlim=21.0, moon 87% dist 69 deg, images by M. Jaeger
+   2019Y4  2020 02 03.94  C 16.5 GG 36.0Y 8a 90   0.4  3/   0.3m220 ICQ XX NOV01I     C 0.35mFL9 KA9 A41 5 P9*           1.7s 1.7 Artyom Novichonok, ISON-Kitab observatory
+   2019Y4  2020 02 02.05  Z 15.3 U4 35.0T 6a360   0.56              ICQ XX BUCaa  a360C33.8 sZ16 CMC CMP 0 U3            1.1s 1.1 Denis Buczynski, Tarbatness I81; visual equivalent magnitude measured using Comphot Nick James software
+   2019Y4  2020 01 31.22  V 17.2 AQ 25.0T 7A680   0.4               ICQ XX MAS01I     C 0.4 mG2x E2V KPR 5 U9* 0.0       1.5s 1.5 Martin Masek; Comet Alt.:73.4 Calculated mags:17.2,17.2,17.1,17.1,17.2
+   2019Y4  2020 01 31.22  k 16.7 AQ 25.0T 7A680   0.4               ICQ XX MAS01I     C 0.4 mG2x E2V KPR 5 U9* 0.0       1.5s 1.5 Martin Masek; Comet Alt.:73.6 Calculated mags:16.7,16.7,16.8,16.7,16.8
+   2019Y4  2020 01 31.09  Z 16.1 U4 35.0T 6a360   0.37              ICQ XX BUCaa  a360C22.6 sZ16 CMC CMP 0 U3            1.1s 1.1 Denis Buczynski, Tarbatness I81; visual equivalent magnitude measured using comphot Nick James software
+   2019Y4  2020 01 29.02  C 17.0 GG 36.0Y 8a 90   0.3  6            ICQ XX NOV01I     C 0.35mFL9 KA9 A41 5 P9*           1.7s 1.7 Artyom Novichonok, ISON-Kitab observatory; FWHM = 3.8"
+   2019Y4  2020 01 24.05  Z 16.7 AQ 20.0L 4M080   1.1       0.6m266        LEHaaI     C 1.1 mPDS CAC AIT 5               1.2s 1.2 Thomas Lehmann, Weimar; DSLR green, mlim=21.3
+   2019Y4  2020 01 22.00  Z 16.8 AQ 10.0R 6F017   1.3                      FRIaaI     C 1.3 mCDS CFC AIT 5               2.0s 2.0 Steffen Fritsche, Koeditz; DSLR green, mlim=20.7
+   2019Y4  2020 01 21.02  Z 17.0 AQ 20.0L 4J320   1.2                      LEHaaI     C 1.2 mPDS CAC AIT 5               1.2s 1.2 Thomas Lehmann, Weimar; DSLR green, mlim=21.0
+   2019Y4  2020 01 21.01  Z 16.5 AQ 10.0R 6F017   1.7       1.3m260        FRIaaI     C 1.7 mCDS CFC AIT 5               2.0s 2.0 Steffen Fritsche, Koeditz; DSLR green, mlim=19.9
