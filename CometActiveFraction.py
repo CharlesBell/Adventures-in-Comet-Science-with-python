@@ -88,8 +88,6 @@ def getActiveFraction(r, Q, A, albedo):
     return (r * r * Q * m * L)/(S * A * (1 - albedo))
 
 
-rn = 2000
-area = 4*math.pi*rn*rn
 
 # JPL Horizons ephemeris for 2020-Mar-20 
 r = 1.686892344370
@@ -127,6 +125,7 @@ area = 4 * math.pi * radius * radius
 activeFraction = getActiveFraction(r, QH2O, area, albedo)
 print('mass Kg', cometMassKG)
 print('volume m^3', volume)
-print('radius  m^2', radius)
+print('suface area m^2', area)
+print('radius  m', radius)
 print('activeFraction ', activeFraction)
 
